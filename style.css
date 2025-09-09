@@ -67,7 +67,7 @@ header img {
 .profile {
   width: 180px;
   aspect-ratio: 1;
-  border-radius: 50%;
+  border-radius: 25%;
   object-fit: cover;
   display: block;
   border: 3px solid #fff;
@@ -212,4 +212,19 @@ footer img:hover {
   text-align: center;
  
 
+}
+
+.btn-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+  font-family: sans-serif;
+}
+
+.btn-link:hover {
+  background-color: #0056b3;
 }
