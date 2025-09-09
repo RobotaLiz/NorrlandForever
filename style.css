@@ -249,8 +249,7 @@ footer img:hover {
   border: 1px solid rgba(109,40,217,.35);   /* lila kant */
   border-radius: 16px;
   box-shadow: 0 8px 20px rgba(0,0,0,.35);
- 
-=======
+}
 .btn-link {
   display: inline-block;
   padding: 10px 20px;
@@ -264,5 +263,4 @@ footer img:hover {
 
 .btn-link:hover {
   background-color: #0056b3;
->>>>>>> bc25abac019c21a1b2e287772671cb3c8ae90398
 }
