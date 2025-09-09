@@ -55,6 +55,7 @@ header img {
   border-bottom: 2px solid #6d28d9; /* diskret accentlinje */
   padding-bottom: 6px;
 }
+
 .intro-copy p {
   margin: 0;
   font-size: 1.1rem;
@@ -66,7 +67,7 @@ header img {
 .profile {
   width: 180px;
   aspect-ratio: 1;
-  border-radius: 50%;
+  border-radius: 25%;
   object-fit: cover;
   display: block;
   border: 3px solid #fff;
@@ -211,4 +212,19 @@ footer img:hover {
   text-align: center;
  
 
+}
+
+.btn-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+  font-family: sans-serif;
+}
+
+.btn-link:hover {
+  background-color: #0056b3;
 }
