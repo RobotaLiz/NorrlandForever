@@ -212,3 +212,40 @@ footer img:hover {
  
 
 }
+
+
+.om-mig {
+  background: rgba(109,40,217,.12);
+  border: 1px solid rgba(109,40,217,.35);
+  color: #eaeaea;
+  padding: 10px 12px;
+  border-radius: 12px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.erfarenheter {
+  background: rgba(109,40,217,.12);
+  border: 1px solid rgba(109,40,217,.35);
+  color: #eaeaea;
+  padding: 10px 12px;
+  border-radius: 12px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.Bilder-om-mig
+{
+   max-width: 700px;
+  margin: 40px auto;
+  padding: 24px 20px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(109,40,217,.35);   /* lila kant */
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,.35);
+ 
+}
